@@ -5,7 +5,6 @@ import com.aliyun.odps.OdpsException;
 import com.aliyun.odps.account.Account;
 import com.aliyun.odps.account.AliyunAccount;
 import  com.aliyun.odps.security.SecurityManager;
-import com.atom.maxcompute.Constant;
 
 /**
  * @author Atom

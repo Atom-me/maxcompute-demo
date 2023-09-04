@@ -3,7 +3,6 @@ package com.atom.maxcompute.demo;
 import com.aliyun.odps.*;
 import com.aliyun.odps.account.Account;
 import com.aliyun.odps.account.AliyunAccount;
-import com.atom.maxcompute.Constant;
 
 /**
  * @author Atom

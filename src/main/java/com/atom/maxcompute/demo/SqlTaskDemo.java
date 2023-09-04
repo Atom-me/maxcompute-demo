@@ -7,7 +7,6 @@ import com.aliyun.odps.account.Account;
 import com.aliyun.odps.account.AliyunAccount;
 import com.aliyun.odps.data.Record;
 import com.aliyun.odps.task.SQLTask;
-import com.atom.maxcompute.Constant;
 
 import java.util.List;
 

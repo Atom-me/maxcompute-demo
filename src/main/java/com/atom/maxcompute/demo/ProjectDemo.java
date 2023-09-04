@@ -5,7 +5,6 @@ import com.aliyun.odps.OdpsException;
 import com.aliyun.odps.Project;
 import com.aliyun.odps.account.Account;
 import com.aliyun.odps.account.AliyunAccount;
-import com.atom.maxcompute.Constant;
 
 /**
  * Projects是MaxCompute中所有项目空间的集合。集合中的元素为项目（Project）。
